@@ -14,7 +14,7 @@ export default function Home() {
         </div>
 
         <div className="px-5 py-12 sm:px-10 xl:px-32 w-full h-3/5">
-          <h1 className="py-5 text-7xl sm:text-9xl font-black bg-waves bg-cover bg-clip-text text-transparent">
+          <h1 className="py-5 text-7xl sm:text-9xl font-black text-blue-900">
             <span className="filter drop-shadow-md">Coming soon!</span>
           </h1>
 
