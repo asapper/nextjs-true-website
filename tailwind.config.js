@@ -6,6 +6,9 @@ module.exports = {
     extend: {
       backgroundImage: theme => ({
        'waves': "url('/img/waves-bg.jpg')",
+      }),
+      fontFamily: theme => ({
+        'poppins': 'Poppins, sans-serif',
       })
     }
   },
